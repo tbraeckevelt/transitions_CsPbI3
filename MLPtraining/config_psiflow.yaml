@@ -1,0 +1,42 @@
+---
+parsl_log_level: INFO
+container_engine: 'singularity'
+#container_uri: '/pfs/lustrep2/scratch/project_465001125/water_phase_diagram/psiflow_hacking/psiflow_rocm_tmp.cif'
+container_uri: 'oras://ghcr.io/tbraeckevelt/psiflow:extended_hessian_rocm6.2'
+default_threads: 16
+retries: 1
+make_symlinks: false
+
+
+ModelEvaluation:
+  cores_per_worker: 7
+  gpu: True
+  #    max_simulation_time: 59
+  slurm:
+    partition: "standard-g"
+    account: "project_465001125"
+    nodes_per_block: 1
+    cores_per_node: 56
+    init_blocks: 0
+    max_blocks: 10
+    walltime: "01:00:00"
+    scheduler_options: "#SBATCH --gres=gpu:8\n"
+    worker_init: "echo SINGULARITY_BIND: $SINGULARITY_BIND\nunset SINGULARITY_BIND\necho SINGULARITY_BIND: $SINGULARITY_BIND\n"
+
+
+ModelTraining:
+  cores_per_worker: 1
+  gpu: true
+  max_training_time: 600
+  slurm:
+    partition: "standard-g"
+    account: "project_465001125"
+    nodes_per_block: 1
+    cores_per_node: 7
+    init_blocks: 0
+    max_blocks: 1
+    walltime: "11:00:00"
+    scheduler_options: "#SBATCH --gres=gpu:1\n"
+
+...
+

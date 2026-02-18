@@ -1,0 +1,17 @@
+In the StructureGeneration folder I have renamed the original (sub)folder names to resemble the naming used in the manuscript and SI.
+For the python scripts in this folder and in MLPtraining to work, I had to keep the original names.
+To know which folders corresponds to which structures, we link the foldernames here with the foldernames in StructureGeneration.
+
+directFromGamma/toCsdelta/along_001              = layer-by-layer-transformation/gamma-to-deltaCs
+directFromGamma/toCsdelta/along_012/sametilts    = layer-by-layer-transformation/gamma-to-deltaCs/notreported/along-012-plane/sametilts
+directFromGamma/toCsdelta/along_012/withtilts    = layer-by-layer-transformation/gamma-to-deltaCs/notreported/along-012-plane/othertilts
+directFromGamma/toFAdelta                        = layer-by-layer-transformation/gamma-to-deltaFA
+viaZeta/toZeta                                   = layer-by-layer-transformation/gamma-to-zeta
+viaZeta/toCsdelta                                = row-by-row-transformation/zeta-to-deltaCs
+viaZeta/toFAdelta                                = row-by-row-transformation/zeta-to-deltaFA
+NucleationStruc/Zetastruc/0dim                   = row-by-row-nucleation/zeta-in-gamma/not-reported/0-dim
+NucleationStruc/Zetastruc/1dim                   = row-by-row-nucleation/zeta-in-gamma
+NucleationStruc/Csdeltastruc/along_001           = row-by-row-nucleation/deltaCs-in-gamma
+NucleationStruc/Csdeltastruc/along_012/sametilts = row-by-row-nucleation/deltaCs-in-gamma/notreported/along-012-plane/sametilts
+NucleationStruc/Csdeltastruc/along_012/withtilts = row-by-row-nucleation/deltaCs-in-gamma/notreported/along-012-plane/othertilts
+NucleationStruc/FAdeltastruc                     = row-by-row-nucleation/deltaFA-in-gamma

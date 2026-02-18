@@ -34,6 +34,7 @@ Note that some subfolders contain a **notreported** directory.
 This directory includes structures that are not discussed in the manuscript or SI because they were found to be unstable. 
 Nevertheless, a subset of these structures was included in the training dataset used to generate the MLIP. 
 Interested readers may also inspect these structures to identify transformation pathways that were deemed unpromising and therefore not pursued further.
+One exception is the `int_line_Csopt1.xyz` and `int_line_Csopt2.xyz` structures in the `row-by-row-nucleation/zeta-in-gamma/not-reported/0-dim` folder, which is shown in figure 9 of the manuscript. However, as mentioned these structures are unstable.
 
 ## Files
 Each subfolder contains, in addition to the `.xyz` files, a Python script to generate the structures.  

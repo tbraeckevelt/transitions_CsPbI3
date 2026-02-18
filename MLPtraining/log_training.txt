@@ -1,0 +1,11 @@
+/scratch/project_465001125/tbraecke/CsPbI3_intermediates/Train_Mace/accurate_vasp
+Wed 10 Sep 2025 09:00:25 PM EEST
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+psiflow.models.model - training model using 778 states for training and 87 for validation
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+RMSE(energy) [meV/atom]: 1.10684271667941
+RMSE(forces) [meV/angstrom]: 33.07835037339825
+Thu 11 Sep 2025 07:21:46 AM EEST
+Done
