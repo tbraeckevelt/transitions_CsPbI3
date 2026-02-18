@@ -1,0 +1,253 @@
+/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/Csdeltastruc/along_012/sametilts/nptruns
+Sat 27 Sep 2025 10:55:21 PM EEST
+Monitoring Parsl tasks
+Current working directory: phase-int_1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_1_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_2a
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+(STATUS) Sat Sep 27 22:56:52 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_2a_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_2b
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Sat Sep 27 22:57:52 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_2b_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3a
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+(STATUS) Sat Sep 27 22:58:52 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3a_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3b_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+(STATUS) Sat Sep 27 22:59:52 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3c
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3c_connected
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+(STATUS) Sat Sep 27 23:00:52 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Done
+Sat 27 Sep 2025 11:00:57 PM EEST
+Done

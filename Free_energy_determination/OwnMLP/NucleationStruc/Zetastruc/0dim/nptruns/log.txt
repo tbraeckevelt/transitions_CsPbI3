@@ -1,0 +1,521 @@
+/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/Zetastruc/0dim/nptruns
+Sat 27 Sep 2025 10:53:16 PM EEST
+Monitoring Parsl tasks
+Current working directory: phase-gamma
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3by3_Csopt1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+(STATUS) Sat Sep 27 22:54:44 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_3by3_Csopt2
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+(STATUS) Sat Sep 27 22:55:44 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_Csopt1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 1/1 | DONE: 0/1 | MISSING INPUT: 0/1]
+Submitting 1 optimisation batches.
+Scheduling HO Hessian step..
+[TODO: 1/1 | DONE: 0/1 | MISSING INPUT: 0/1]
+Submitting 1 calculations.
+Scheduling Lambda integration step at low temperature..
+[TODO: 56/56 | DONE: 0/56 | MISSING INPUT: 0/56]
+Submitting 56 simulations.
+(STATUS) Sat Sep 27 22:56:44 2025 | total: 373, completed: 50, failed: 0, remaining: 323
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+Scheduling intermediate NVT sampling step..
+[TODO: 64/64 | DONE: 0/64 | MISSING INPUT: 0/64]
+Submitting 64 simulations.
+Scheduling Lambda integration step at high temperature..
+[TODO: 56/56 | DONE: 0/56 | MISSING INPUT: 0/56]
+Submitting 56 simulations.
+Scheduling NVT sampling step..
+[TODO: 64/64 | DONE: 0/64 | MISSING INPUT: 0/64]
+Submitting 64 simulations.
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_Csopt2
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+(STATUS) Sat Sep 27 22:57:44 2025 | total: 10756, completed: 2266, failed: 0, remaining: 8490
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_and_2by1_Csopt1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+(STATUS) Sat Sep 27 22:58:44 2025 | total: 10756, completed: 2902, failed: 0, remaining: 7854
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_and_2by1_Csopt2
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+(STATUS) Sat Sep 27 22:59:44 2025 | total: 10756, completed: 3463, failed: 0, remaining: 7293
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_and_2by2_Csopt1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+(STATUS) Sat Sep 27 23:00:45 2025 | total: 10756, completed: 3472, failed: 0, remaining: 7284
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+(STATUS) Sat Sep 27 23:01:45 2025 | total: 10756, completed: 3604, failed: 0, remaining: 7152
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_4by2_and_2by2_Csopt2
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 1/1 | DONE: 0/1 | MISSING INPUT: 0/1]
+Submitting 1 optimisation batches.
+Scheduling HO Hessian step..
+[TODO: 1/1 | DONE: 0/1 | MISSING INPUT: 0/1]
+Submitting 1 calculations.
+Scheduling Lambda integration step at low temperature..
+[TODO: 56/56 | DONE: 0/56 | MISSING INPUT: 0/56]
+Submitting 56 simulations.
+Scheduling intermediate NVT sampling step..
+[TODO: 64/64 | DONE: 0/64 | MISSING INPUT: 0/64]
+Submitting 64 simulations.
+Scheduling Lambda integration step at high temperature..
+[TODO: 56/56 | DONE: 0/56 | MISSING INPUT: 0/56]
+Submitting 56 simulations.
+Scheduling NVT sampling step..
+[TODO: 64/64 | DONE: 0/64 | MISSING INPUT: 0/64]
+Submitting 64 simulations.
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_line_Csopt1
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Sat Sep 27 23:02:45 2025 | total: 21512, completed: 5870, failed: 0, remaining: 15642
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+Current working directory: phase-int_line_Csopt2
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NPT sampling step..
+[TODO: 0/32 | DONE: 32/32 | MISSING INPUT: 0/32]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Sat Sep 27 23:03:45 2025 | total: 21512, completed: 5903, failed: 0, remaining: 15609
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Stored tasks: 291
+That's all folks
+(STATUS) Sat Sep 27 23:04:45 2025 | total: 21512, completed: 6908, failed: 0, remaining: 14604
+(STATUS) Sat Sep 27 23:05:45 2025 | total: 21512, completed: 7067, failed: 0, remaining: 14445
+(STATUS) Sat Sep 27 23:06:45 2025 | total: 21512, completed: 7076, failed: 0, remaining: 14436
+(STATUS) Sat Sep 27 23:07:45 2025 | total: 21512, completed: 7208, failed: 0, remaining: 14304
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+(STATUS) Sat Sep 27 23:08:47 2025 | total: 21512, completed: 8748, failed: 0, remaining: 12764
+(STATUS) Sat Sep 27 23:09:48 2025 | total: 21512, completed: 8877, failed: 0, remaining: 12635
+(STATUS) Sat Sep 27 23:10:49 2025 | total: 21512, completed: 8983, failed: 0, remaining: 12529
+(STATUS) Sat Sep 27 23:11:50 2025 | total: 21512, completed: 9112, failed: 0, remaining: 12400
+(STATUS) Sat Sep 27 23:12:51 2025 | total: 21512, completed: 9240, failed: 0, remaining: 12272
+(STATUS) Sat Sep 27 23:13:51 2025 | total: 21512, completed: 9264, failed: 0, remaining: 12248
+(STATUS) Sat Sep 27 23:14:52 2025 | total: 21512, completed: 10798, failed: 0, remaining: 10714
+(STATUS) Sat Sep 27 23:15:53 2025 | total: 21512, completed: 10937, failed: 0, remaining: 10575
+(STATUS) Sat Sep 27 23:16:54 2025 | total: 21512, completed: 11046, failed: 0, remaining: 10466
+(STATUS) Sat Sep 27 23:17:54 2025 | total: 21512, completed: 11179, failed: 0, remaining: 10333
+(STATUS) Sat Sep 27 23:18:55 2025 | total: 21512, completed: 11298, failed: 0, remaining: 10214
+(STATUS) Sat Sep 27 23:19:55 2025 | total: 21524, completed: 11404, failed: 0, remaining: 10120
+(STATUS) Sat Sep 27 23:20:55 2025 | total: 21524, completed: 11404, failed: 0, remaining: 10120
+(STATUS) Sat Sep 27 23:21:55 2025 | total: 21524, completed: 11404, failed: 0, remaining: 10120
+(STATUS) Sat Sep 27 23:22:55 2025 | total: 21524, completed: 11404, failed: 0, remaining: 10120
+(STATUS) Sat Sep 27 23:23:55 2025 | total: 21527, completed: 11425, failed: 0, remaining: 10102
+(STATUS) Sat Sep 27 23:24:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:25:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:26:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:27:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:28:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:29:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:30:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:31:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:32:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:33:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:34:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:35:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:36:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:37:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:38:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:39:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:40:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:41:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:42:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:43:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:44:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:45:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:46:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:47:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:48:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:49:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:50:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:51:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:52:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:53:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:54:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:55:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:56:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:57:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:58:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sat Sep 27 23:59:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:00:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:01:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:02:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:03:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:04:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:05:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:06:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:07:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:08:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:09:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:10:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:11:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:12:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:13:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:14:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:15:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:16:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:17:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:18:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:19:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:20:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:21:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:22:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:23:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:24:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:25:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:26:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:27:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:28:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:29:55 2025 | total: 21536, completed: 11488, failed: 0, remaining: 10048
+(STATUS) Sun Sep 28 00:30:55 2025 | total: 21545, completed: 11551, failed: 0, remaining: 9994
+(STATUS) Sun Sep 28 00:31:55 2025 | total: 21614, completed: 12026, failed: 0, remaining: 9588
+(STATUS) Sun Sep 28 00:32:55 2025 | total: 21809, completed: 13399, failed: 0, remaining: 8410
+(STATUS) Sun Sep 28 00:33:55 2025 | total: 21860, completed: 13756, failed: 0, remaining: 8104
+(STATUS) Sun Sep 28 00:34:55 2025 | total: 21872, completed: 13840, failed: 0, remaining: 8032
+(STATUS) Sun Sep 28 00:35:55 2025 | total: 21872, completed: 13840, failed: 0, remaining: 8032
+(STATUS) Sun Sep 28 00:36:55 2025 | total: 21887, completed: 13945, failed: 0, remaining: 7942
+(STATUS) Sun Sep 28 00:37:55 2025 | total: 21998, completed: 14722, failed: 0, remaining: 7276
+(STATUS) Sun Sep 28 00:38:55 2025 | total: 22109, completed: 15499, failed: 0, remaining: 6610
+(STATUS) Sun Sep 28 00:39:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:40:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:41:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:42:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:43:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:44:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:45:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:46:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:47:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:48:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:49:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:50:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:51:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:52:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:53:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:54:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:55:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:56:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:57:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:58:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 00:59:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:00:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:01:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:02:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:03:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:04:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:05:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:06:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:07:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:08:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:09:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:10:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:11:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:12:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:13:55 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:14:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:15:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:16:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:17:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:18:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:19:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:20:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:21:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:22:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:23:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:24:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:25:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:26:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:27:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:28:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:29:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:30:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:31:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:32:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:33:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:34:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:35:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:36:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:37:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:38:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:39:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:40:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:41:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:42:56 2025 | total: 22184, completed: 16024, failed: 0, remaining: 6160
+(STATUS) Sun Sep 28 01:43:56 2025 | total: 22232, completed: 16329, failed: 0, remaining: 5903
+(STATUS) Sun Sep 28 01:44:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:45:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:46:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:47:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:48:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:49:56 2025 | total: 22376, completed: 17244, failed: 0, remaining: 5132
+(STATUS) Sun Sep 28 01:50:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:51:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:52:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:53:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:54:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:55:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:56:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:57:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:58:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 01:59:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:00:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:01:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:02:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:03:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:04:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:05:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:06:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:07:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:08:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:09:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:10:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:11:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:12:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:13:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:14:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:15:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:16:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:17:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:18:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:19:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:20:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:21:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:22:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:23:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:24:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:25:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:26:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:27:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:28:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:29:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:30:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:31:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:32:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:33:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:34:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:35:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:36:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:37:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:38:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:39:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:40:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:41:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:42:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:43:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:44:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:45:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:46:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:47:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:48:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:49:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:50:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:51:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:52:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:53:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:54:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:55:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:56:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:57:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:58:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 02:59:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 03:00:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 03:01:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 03:02:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 03:03:56 2025 | total: 22568, completed: 18464, failed: 0, remaining: 4104
+(STATUS) Sun Sep 28 03:04:56 2025 | total: 22600, completed: 19009, failed: 0, remaining: 3591
+(STATUS) Sun Sep 28 03:05:56 2025 | total: 22696, completed: 20644, failed: 0, remaining: 2052
+(STATUS) Sun Sep 28 03:06:56 2025 | total: 22696, completed: 20644, failed: 0, remaining: 2052
+(STATUS) Sun Sep 28 03:07:56 2025 | total: 22696, completed: 20644, failed: 0, remaining: 2052
+(STATUS) Sun Sep 28 03:08:56 2025 | total: 22696, completed: 20644, failed: 0, remaining: 2052
+(STATUS) Sun Sep 28 03:09:56 2025 | total: 22696, completed: 20644, failed: 0, remaining: 2052
+(STATUS) Sun Sep 28 03:10:56 2025 | total: 22792, completed: 22279, failed: 0, remaining: 513
+Done
+Sun 28 Sep 2025 03:11:14 AM EEST
+Done

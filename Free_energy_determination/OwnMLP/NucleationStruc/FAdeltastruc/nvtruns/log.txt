@@ -1,0 +1,1223 @@
+/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nvtruns
+Tue 23 Sep 2025 06:49:13 AM EEST
+Monitoring Parsl tasks
+Current working directory: phase-int_1a
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_1b
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_1c
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+(STATUS) Tue Sep 23 06:50:24 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_1a_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Tue Sep 23 06:51:24 2025 | total: 0, completed: 0, failed: 0, remaining: 0
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 16/64 | DONE: 48/64 | MISSING INPUT: 0/64]
+Submitting 16 simulations.
+Scheduling Lambda integration step at high temperature..
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+(STATUS) Tue Sep 23 06:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_2a_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+(STATUS) Tue Sep 23 06:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_3a_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Tue Sep 23 06:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_4a_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+(STATUS) Tue Sep 23 06:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_4b_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+(STATUS) Tue Sep 23 06:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+Current working directory: phase-int_4c_double
+Scheduling initialization sampling step..
+use initial file for initialization run
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling explorative sampling step..
+[TODO: 0/16 | DONE: 16/16 | MISSING INPUT: 0/16]
+Scheduling NVT sampling step..
+(STATUS) Tue Sep 23 06:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling HO optimisation step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling HO Hessian step..
+[TODO: 0/1 | DONE: 1/1 | MISSING INPUT: 0/1]
+Scheduling Lambda integration step at low temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Scheduling intermediate NVT sampling step..
+[TODO: 0/64 | DONE: 64/64 | MISSING INPUT: 0/64]
+Scheduling Lambda integration step at high temperature..
+[TODO: 0/56 | DONE: 56/56 | MISSING INPUT: 0/56]
+Stored tasks: 259
+That's all folks
+(STATUS) Tue Sep 23 06:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 06:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 07:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 08:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 09:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 10:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 11:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 12:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 13:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 14:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 15:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:04:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:05:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:07:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:08:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:09:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:10:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:11:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:12:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:13:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:14:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:15:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:16:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:17:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:18:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:19:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:20:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:21:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:22:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:23:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:24:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:25:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:26:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:27:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:28:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:29:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:30:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:31:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:32:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:33:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:34:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:35:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:36:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:37:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:38:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:39:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:40:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:41:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:42:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:43:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:44:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:45:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:46:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:47:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:48:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:49:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:50:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:51:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:52:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:53:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:54:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:55:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:56:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:57:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:58:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 16:59:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:00:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:01:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:02:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:03:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:06:24 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 17:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 18:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 19:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 20:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 21:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 22:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:04:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:05:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:06:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:07:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:08:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:09:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:10:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:11:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:12:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:13:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:14:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:15:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:16:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:17:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:18:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:19:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:20:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:21:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:22:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:23:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:24:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:25:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:26:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:27:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:28:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:29:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:30:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:31:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:32:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:33:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:34:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:35:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:36:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:37:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:38:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:39:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:40:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:41:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:42:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:43:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:44:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:45:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:46:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:47:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:48:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:49:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:50:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:51:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:52:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:53:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:54:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:55:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:56:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:57:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:58:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Tue Sep 23 23:59:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Wed Sep 24 00:00:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Wed Sep 24 00:01:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Wed Sep 24 00:02:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+(STATUS) Wed Sep 24 00:03:25 2025 | total: 709, completed: 196, failed: 0, remaining: 513
+Done
+Wed 24 Sep 2025 12:03:59 AM EEST
+Done

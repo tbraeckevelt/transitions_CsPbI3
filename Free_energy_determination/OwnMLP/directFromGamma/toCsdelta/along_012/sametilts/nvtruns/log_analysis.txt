@@ -1,0 +1,68 @@
+/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/directFromGamma/toCsdelta/along_012/sametilts/nvtruns
+Sun 14 Sep 2025 10:40:20 PM EEST
+start post-analysis of phase int_layer_1a
+start making opt plots
+start making hess plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start post-analysis of phase int_layer_1a_connected
+start making opt plots
+start making hess plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start post-analysis of phase int_layer_1b
+start making opt plots
+start making hess plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start post-analysis of phase int_layer_1b_connected
+start making opt plots
+start making hess plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+/LUMI_TYKKY_TtGYCMe/miniconda/envs/env1/lib/python3.10/site-packages/psiflow/free_energy/phonons.py:26: RuntimeWarning: invalid value encountered in sqrt
+  return np.sqrt(np.linalg.eigvalsh(mass_weight(hessian, geometry))) / (2 * np.pi)
+start post-analysis of phase Csdelta_sametilts
+start making opt plots
+start making hess plots
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+start post-analysis of phase Csdelta_sametilts_connected
+start making opt plots
+start making hess plots
+start making ti_low plots
+start making NVT temperature sweep plots of the intermediate PES
+start making ti_high plots
+start making NVT temperature sweep plots
+start making Free_energy plots
+Sun 14 Sep 2025 10:41:26 PM EEST
+Done

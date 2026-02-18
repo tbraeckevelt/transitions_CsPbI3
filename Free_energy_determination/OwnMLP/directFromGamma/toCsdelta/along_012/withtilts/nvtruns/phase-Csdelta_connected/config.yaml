@@ -1,0 +1,23 @@
+timestep: 2.0
+number_of_hamiltonians: 1
+hamiltonian: /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/directFromGamma/toCsdelta/along_012/withtilts/nvtruns/data/modelvasp.pth
+initialization: {'multi': 1, 'temperatures': [150.00000000000003], 'pressures': array([None], dtype=object), 'steps': 10000, 'step': 200, 'start': 0, 'store_traj': True}
+sampling: {'init_struc': 'initialization', 'init_last': True, 'multi': 1, 'temperatures': array([150.        , 164.52374695, 180.45375541, 197.92618662,
+       217.09038562, 238.1101578 , 261.16516899, 286.45248117,
+       314.18823685, 344.6095065 , 377.97631497, 414.57386399,
+       454.71496995, 498.74273769, 547.03349313, 600.        ]), 'pressures': array([None], dtype=object), 'steps': 54000, 'step': 200, 'start': 4000, 'store_traj': True}
+nvt: {'init_struc': 'sampling', 'multi': 4, 'init_temperatures': array([150.        , 164.52374695, 180.45375541, 197.92618662,
+       217.09038562, 238.1101578 , 261.16516899, 286.45248117,
+       314.18823685, 344.6095065 , 377.97631497, 414.57386399,
+       454.71496995, 498.74273769, 547.03349313, 600.        ]), 'temperatures': array([150.        , 164.52374695, 180.45375541, 197.92618662,
+       217.09038562, 238.1101578 , 261.16516899, 286.45248117,
+       314.18823685, 344.6095065 , 377.97631497, 414.57386399,
+       454.71496995, 498.74273769, 547.03349313, 600.        ]), 'pressures': array([None], dtype=object), 'steps': 54000, 'step': 200, 'start': 4000, 'store_traj': True, 'freq_rex_temperature': 200}
+opt: {'init_struc': 'nvt', 'multi': 400, 'temperatures': [150.00000000000003], 'pressures': array([None], dtype=object), 'f_max': 0.001}
+hess: {'opt_struc': 'opt', 'temperatures': [150.00000000000003], 'pressures': array([None], dtype=object), 'delta_shift': 0.001}
+ti_low: {'hess_name': 'hess', 'hess_temperatures': [150.00000000000003], 'hess_presssures': array([None], dtype=object), 'begin_hamiltonian': '1.0xharmonic', 'end_hamiltonian': '0.7xharmonic+0.3xhamiltonian', 'lambda_path': [0.0, 0.01, 0.02, 0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 0.9, 0.95, 0.98, 0.99, 1.0], 'multi': 4, 'temperatures': [150.00000000000003], 'pressures': array([None], dtype=object), 'steps': 54000, 'step': 200, 'start': 4000, 'store_traj': True}
+intermediate: {'hess_name': 'hess', 'hess_temperatures': [150.00000000000003], 'hess_presssures': array([None], dtype=object), 'other_hamiltonian': '0.7xharmonic+0.3xhamiltonian', 'multi': 4, 'temperatures': array([150.        , 164.52374695, 180.45375541, 197.92618662,
+       217.09038562, 238.1101578 , 261.16516899, 286.45248117,
+       314.18823685, 344.6095065 , 377.97631497, 414.57386399,
+       454.71496995, 498.74273769, 547.03349313, 600.        ]), 'pressures': array([None], dtype=object), 'steps': 54000, 'step': 200, 'start': 4000, 'freq_rex_temperature': 200}
+ti_high: {'hess_name': 'hess', 'hess_temperatures': [150.00000000000003], 'hess_presssures': array([None], dtype=object), 'begin_hamiltonian': '0.7xharmonic+0.3xhamiltonian', 'end_hamiltonian': '1.0xhamiltonian', 'lambda_path': [0.0, 0.01, 0.02, 0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 0.9, 0.95, 0.98, 0.99, 1.0], 'multi': 4, 'temperatures': [599.9999999999997], 'pressures': array([None], dtype=object), 'steps': 54000, 'step': 200, 'start': 4000, 'store_traj': True}

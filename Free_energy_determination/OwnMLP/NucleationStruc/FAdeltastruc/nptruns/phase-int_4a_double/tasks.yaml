@@ -1,0 +1,2954 @@
+017a3ad3fe9acba6f9843bfd52c7f1f8_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T314_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T314_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+030f7a4a4f29719087f972f55ce7e2de_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T345_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T345_2.xyz
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+04be4db7eb9db313559aafe400b64356_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T198_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T198_3.xyz
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+050146556914a3d83df66a68755c4925_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T198_3.pickle
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+05ddebe5151340e8e667cf4d0a104aea_0:
+  id: 0
+  lambda_param: 0.01
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.01_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.01_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+05ddebe5151340e8e667cf4d0a104aea_1:
+  id: 1
+  lambda_param: 0.01
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.01_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.01_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+05ddebe5151340e8e667cf4d0a104aea_2:
+  id: 2
+  lambda_param: 0.01
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.01_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.01_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+05ddebe5151340e8e667cf4d0a104aea_3:
+  id: 3
+  lambda_param: 0.01
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.01_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.01_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+082451386bc8b92b2f5bcc0ab1bcc1e9_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T378_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T378_0.xyz
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+089f9bbf1a929780ef6b86a7bd555b69_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T198_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T198_2.xyz
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+09a67fc6ffad614b7743a727399f82d3_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T499_3.pickle
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+0ac5e47661ef59c45565397559c19e21_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T150_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T150_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+0ac60deb5ac4721f61ecfab9a8e9a71b_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T180_1.pickle
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+0b0e741920c393bd07c419dc6abe0eea_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T314_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T314_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+0c21b1901c2b3208dd62d6fa447f5ffd_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T217_0.pickle
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+0d5e1baf4f73b9541500ab036083454c_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T286_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T286_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+0d971185ab04d2bd569e6f73703cff68_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T415_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T415_1.xyz
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+0ec71413419b57f3ffc90f2e2c012c23_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T261_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T261_0.xyz
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+10baee4e122040b4aae8550534d60708_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T547_2.pickle
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+11569e1290ac5e3ab47b9b332e2e9930_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T415_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T415_0.xyz
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+121c31d33f2250a307be3dd1cb981ad6_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T180_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T180_2.xyz
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+144045707eb27003022cf686e3f1a903_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T378_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T378_3.xyz
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+15047982d8689c838724871459f0fc2d_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T286_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T286_1.xyz
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+158698c49f39eb46fc39cfa430f573bd_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T286_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T286_3.xyz
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+15a2df791a42c4ba158a04f14efea6b7_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T165_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T165_3.xyz
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+15dc58e0dcf6a25e84c2315c7cf4e62d_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T455_2.pickle
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+177a822a2a510dc843b6849fd05a3bb1_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T238_3.pickle
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+17f614e3fd457aef8338fefb237579ed_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T378_3.pickle
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+193a34a7a7d36de88ebdb7cc4c474fe2_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T238_2.pickle
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+197470e8d45c61c1517ebae69737c6c0_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T286_1.pickle
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+1b91c10f58a0f1c4b13fd5fdf73f9aaa_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T198_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T198_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+1e035c17d3899b19f14d2da87ec16f2b_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T150_2.pickle
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+215d697dc66d3c5be4aa8137d981b741_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T217_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T217_3.xyz
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+22bfc542c59489c7a78b6c3de7482172_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T165_1.pickle
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+25de90520ac274e0a80ec98af4832387_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T217_2.pickle
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+272952fbc95e2e787beababf2a4ea14e_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T261_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T261_1.xyz
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+2732890f087a5506cce7bf2cf8a73adf_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T238_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T238_0.xyz
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+2b3b94435ad253cfffca9e886c67634b_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T499_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T499_0.xyz
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+2b813279a2ee1df46affa2eff66a3299_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T286_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T286_0.xyz
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+2be653df46a9744fe63e2d76e8a117bb_0:
+  id: 0
+  lambda_param: 0.8
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.8_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.8_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+2be653df46a9744fe63e2d76e8a117bb_1:
+  id: 1
+  lambda_param: 0.8
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.8_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.8_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+2be653df46a9744fe63e2d76e8a117bb_2:
+  id: 2
+  lambda_param: 0.8
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.8_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.8_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+2be653df46a9744fe63e2d76e8a117bb_3:
+  id: 3
+  lambda_param: 0.8
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.8_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.8_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+2cbaaa5975249f596b2e349e0758550c_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T180_3.pickle
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+318b4792aaf9127c50bc76d69dcfa734_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T150_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T150_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+318c137115edbe9d3c9264d4f5368c27_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T165_0.pickle
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+31f3024b0dfff33328b9ed298e59da65_0:
+  id: 0
+  lambda_param: 0.1
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.1_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+31f3024b0dfff33328b9ed298e59da65_1:
+  id: 1
+  lambda_param: 0.1
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.1_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+31f3024b0dfff33328b9ed298e59da65_2:
+  id: 2
+  lambda_param: 0.1
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.1_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.1_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+31f3024b0dfff33328b9ed298e59da65_3:
+  id: 3
+  lambda_param: 0.1
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.1_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.1_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+323330734bde0bd198547e697ed6d035_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T165_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T165_2.xyz
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+3289d75379ce746a6cd0ab183468ce8a_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T198_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T198_0.xyz
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+328d22506a17eb523761d00dc312710a_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T180_2.pickle
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+371a890bc2942a6aeab8b33cb2ef0dd4_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T150_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T150_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+37e0df9a1ed41f474dcde6afd85bb5da_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T238_1.pickle
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+3a0fd9ed81a86be9d4244aa131acb3c8_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T600_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T600_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+3d7733e6e8c447bb359d53db7e3fa146_0:
+  id: 0
+  lambda_param: 0.2
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.2_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.2_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3d7733e6e8c447bb359d53db7e3fa146_1:
+  id: 1
+  lambda_param: 0.2
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.2_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.2_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3d7733e6e8c447bb359d53db7e3fa146_2:
+  id: 2
+  lambda_param: 0.2
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.2_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.2_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3d7733e6e8c447bb359d53db7e3fa146_3:
+  id: 3
+  lambda_param: 0.2
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.2_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.2_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3d92619a88414f3182bc53b94baa440a_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T198_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T198_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+3dd27b1f4622c5d292e5310f1bd5dd55_0:
+  id: 0
+  lambda_param: 0.01
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.01_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.01_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3dd27b1f4622c5d292e5310f1bd5dd55_1:
+  id: 1
+  lambda_param: 0.01
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.01_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.01_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3dd27b1f4622c5d292e5310f1bd5dd55_2:
+  id: 2
+  lambda_param: 0.01
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.01_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.01_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3dd27b1f4622c5d292e5310f1bd5dd55_3:
+  id: 3
+  lambda_param: 0.01
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.01_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.01_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+3f8ba2e5a2acc9ffdb3af49017c3c190_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T165_2.pickle
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+418f0123ea5cbbb29f74c9b0035ed588_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T415_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T415_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+439084b8a4cb3a2685cf7734bb716292_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T547_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T547_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+45e20991cd16f7b8ce4ff4c3dd862584_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T415_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T415_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+46915389985ed9f0e39026bac9e2e92f_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T286_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T286_2.xyz
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+476a3bc74f5332a15c34eace38d14e84_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T499_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T499_2.xyz
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+48872ad5b67273ff777724b9c75ae397_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T345_0.pickle
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+4a87ba1d3b65afcb696d9337a1485f5d_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T378_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T378_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+4d75ce6f1d6e8cc7a5c4c1332e3c413c_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T378_1.pickle
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+4e6198f1c1c24369892a66fc4a050d53_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T378_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T378_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+4ebfda7a56d996a1f2ae3b897bf7b01f_0:
+  id: 0
+  lambda_param: 0.99
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.99_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.99_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+4ebfda7a56d996a1f2ae3b897bf7b01f_1:
+  id: 1
+  lambda_param: 0.99
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.99_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.99_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+4ebfda7a56d996a1f2ae3b897bf7b01f_2:
+  id: 2
+  lambda_param: 0.99
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.99_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.99_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+4ebfda7a56d996a1f2ae3b897bf7b01f_3:
+  id: 3
+  lambda_param: 0.99
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.99_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.99_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+4f2cae60a5f3f8c0d5aecb545254462e_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T547_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T547_1.xyz
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+508506c2f2976c4bc7dbfff0488fdb91_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T345_2.pickle
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+5121713d6de63bc172891fe15d575e3a_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T415_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T415_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+5134a95dce12b03efb5d19e8ea1811d2_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T314_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T314_2.xyz
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+51df1b01cf9108f2ba82c859a39e2974_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T261_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T261_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+580d57ae650beaee3904049039f5a9ba_0:
+  id: 0
+  lambda_param: 0.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.0_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.0_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+580d57ae650beaee3904049039f5a9ba_1:
+  id: 1
+  lambda_param: 0.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.0_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.0_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+580d57ae650beaee3904049039f5a9ba_2:
+  id: 2
+  lambda_param: 0.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.0_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.0_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+580d57ae650beaee3904049039f5a9ba_3:
+  id: 3
+  lambda_param: 0.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.0_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.0_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+587848b2d7b7ad5ea13febe3d8805598_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T378_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T378_1.xyz
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+58c7c94decb2439bafb4587ebc36e37c_0:
+  id: 0
+  lambda_param: 0.6
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.6_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.6_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+58c7c94decb2439bafb4587ebc36e37c_1:
+  id: 1
+  lambda_param: 0.6
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.6_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.6_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+58c7c94decb2439bafb4587ebc36e37c_2:
+  id: 2
+  lambda_param: 0.6
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.6_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.6_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+58c7c94decb2439bafb4587ebc36e37c_3:
+  id: 3
+  lambda_param: 0.6
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.6_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.6_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+592ec8143f43f9dd6cd8c4f82438acd5_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T415_1.pickle
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+5a56442095cb147785bb3f7643195a67_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T314_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T314_1.xyz
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+5d35ab7486716752f131b27cb4d21bda_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T378_0.pickle
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+5da7a96f0e84ba6cfada7edcffcd0db7_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T314_2.pickle
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+5fd993d2ae4a6482397275f547e79a70_0:
+  id: 0
+  lambda_param: 0.95
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.95_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.95_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+5fd993d2ae4a6482397275f547e79a70_1:
+  id: 1
+  lambda_param: 0.95
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.95_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.95_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+5fd993d2ae4a6482397275f547e79a70_2:
+  id: 2
+  lambda_param: 0.95
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.95_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.95_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+5fd993d2ae4a6482397275f547e79a70_3:
+  id: 3
+  lambda_param: 0.95
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.95_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.95_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+6345a5873db6bc1fe1b7e0c19e40a020_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T455_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T455_2.xyz
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+63604fef0b5ddb840ab9d0db868762fd_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T238_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T238_2.xyz
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+67d17a9c9bd68f04ffea6b53900e9c1d_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T261_3.pickle
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+6cc948ee0921c4acba77e0e9b1c4e1f9_0:
+  id: 0
+  lambda_param: 0.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.0_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.0_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+6cc948ee0921c4acba77e0e9b1c4e1f9_1:
+  id: 1
+  lambda_param: 0.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.0_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.0_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+6cc948ee0921c4acba77e0e9b1c4e1f9_2:
+  id: 2
+  lambda_param: 0.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.0_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.0_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+6cc948ee0921c4acba77e0e9b1c4e1f9_3:
+  id: 3
+  lambda_param: 0.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.0_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.0_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+6e921144b8c3b180fa8a070b7d25d2c0_0:
+  id: 0
+  lambda_param: 0.6
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.6_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.6_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+6e921144b8c3b180fa8a070b7d25d2c0_1:
+  id: 1
+  lambda_param: 0.6
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.6_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.6_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+6e921144b8c3b180fa8a070b7d25d2c0_2:
+  id: 2
+  lambda_param: 0.6
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.6_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.6_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+6e921144b8c3b180fa8a070b7d25d2c0_3:
+  id: 3
+  lambda_param: 0.6
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.6_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.6_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+6eadf620bbb2f9d9bad4a9db67f469f5_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T286_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T286_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+6fde854c29acd37adbbc40f0ca7b74d9_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T217_3.pickle
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+717c685b890aab3a5f301009705d0a52_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T415_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T415_3.xyz
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+732380d9526bc4724318ead3896849a6_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T150_0.pickle
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+7416cd3799ff733ebbd1efba18abdc5a_0:
+  id: 0
+  lambda_param: 0.2
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.2_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.2_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+7416cd3799ff733ebbd1efba18abdc5a_1:
+  id: 1
+  lambda_param: 0.2
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.2_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.2_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+7416cd3799ff733ebbd1efba18abdc5a_2:
+  id: 2
+  lambda_param: 0.2
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.2_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.2_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+7416cd3799ff733ebbd1efba18abdc5a_3:
+  id: 3
+  lambda_param: 0.2
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.2_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.2_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+743ffdbd17160c95f8ed3c168d09cdfd_0:
+  id: 0
+  lambda_param: 0.98
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.98_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.98_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+743ffdbd17160c95f8ed3c168d09cdfd_1:
+  id: 1
+  lambda_param: 0.98
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.98_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.98_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+743ffdbd17160c95f8ed3c168d09cdfd_2:
+  id: 2
+  lambda_param: 0.98
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.98_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.98_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+743ffdbd17160c95f8ed3c168d09cdfd_3:
+  id: 3
+  lambda_param: 0.98
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.98_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.98_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+752945fb18defb013b11a74cb3fbc961_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T180_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T180_0.xyz
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+75cbee2b2c33f5bce736d9d39ded2244_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T286_0.pickle
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+75e0e5fa1cf0da9e0dd82444a4f4db3e_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T600_3.pickle
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+78e22f5358d0c2c64d8d776edac2cd90_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T198_0.pickle
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+794ef87e0e32d3e608e455083aa6dfa5_0:
+  id: 0
+  lambda_param: 0.05
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.05_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.05_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+794ef87e0e32d3e608e455083aa6dfa5_1:
+  id: 1
+  lambda_param: 0.05
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.05_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.05_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+794ef87e0e32d3e608e455083aa6dfa5_2:
+  id: 2
+  lambda_param: 0.05
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.05_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.05_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+794ef87e0e32d3e608e455083aa6dfa5_3:
+  id: 3
+  lambda_param: 0.05
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.05_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.05_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+79fa378f3a1e8b1dda78c9cc45f1bdd7_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T345_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T345_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+7a09021a2d0a25b9b8aec744b4e44b7a_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T600_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T600_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+7a4678dc6ad0110e77d21bb8bc998b91_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T600_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T600_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+7a8cba1be4aa90afb6335639df1e80da_0:
+  multi: 0
+  name: initialization
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/initialization/props_T150_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/initialization/traj_T150_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+7ab58df9a30d3b84d12679701e9ee6d9_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T198_1.pickle
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+7c2e6d2af7a518bb5d119044097d1eb1_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T261_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T261_2.xyz
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+7cf949c33de30c4fb499e195994c932f_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T600_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T600_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+7dcb32dcccfc19f15472e4a800f8ff3d_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T261_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T261_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+81c00869c10151e89221b783f6623dff_0:
+  id: 0
+  lambda_param: 0.4
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.4_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.4_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+81c00869c10151e89221b783f6623dff_1:
+  id: 1
+  lambda_param: 0.4
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.4_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.4_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+81c00869c10151e89221b783f6623dff_2:
+  id: 2
+  lambda_param: 0.4
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.4_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.4_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+81c00869c10151e89221b783f6623dff_3:
+  id: 3
+  lambda_param: 0.4
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.4_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.4_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+81d23ad3a21a0662b453eae80313e29a_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T378_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T378_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+847acc2ef1bbddf73a1b60b0c4a5936a_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T455_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T455_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+84c09a4a66f8aab323d08f0554717221_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T261_2.pickle
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+84c34c53c1527b9e92c25215c9d6743b_0:
+  id: 0
+  lambda_param: 0.98
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.98_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.98_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+84c34c53c1527b9e92c25215c9d6743b_1:
+  id: 1
+  lambda_param: 0.98
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.98_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.98_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+84c34c53c1527b9e92c25215c9d6743b_2:
+  id: 2
+  lambda_param: 0.98
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.98_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.98_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+84c34c53c1527b9e92c25215c9d6743b_3:
+  id: 3
+  lambda_param: 0.98
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.98_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.98_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+8523623904c9ac8cd64bc182a1522bb9_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T415_0.pickle
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+864181b2f3f911ec314c6bc1c7383e3e_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T286_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T286_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+86aa871f468d798b9b43455fcb0f3abe_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T455_3.pickle
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+887c8d8a50b12f79a0e5b5c962350921_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T150_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T150_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+89c58a2dd2429859e8852d243a89075a_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T165_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T165_1.xyz
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+8bb6c62df67774d072df769306108492_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T165_3.pickle
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+8f0ce85c58fc892f8c228bf085bdbe44_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T499_1.pickle
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+8f8b8fa1c9d38a47b4a7d4f7242027dd_0:
+  id: 0
+  lambda_param: 0.4
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.4_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.4_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+8f8b8fa1c9d38a47b4a7d4f7242027dd_1:
+  id: 1
+  lambda_param: 0.4
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.4_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.4_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+8f8b8fa1c9d38a47b4a7d4f7242027dd_2:
+  id: 2
+  lambda_param: 0.4
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.4_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.4_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+8f8b8fa1c9d38a47b4a7d4f7242027dd_3:
+  id: 3
+  lambda_param: 0.4
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.4_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.4_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+9047d26fff7e13ad6a81b6d916f6e26b_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T378_2.pickle
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+933875c4c9c727190c9a09d99c8f9b19_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T600_1.pickle
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+93ba1a3f1babbcb00bc179eb7df05378_0:
+  id: 0
+  lambda_param: 0.05
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.05_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.05_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+93ba1a3f1babbcb00bc179eb7df05378_1:
+  id: 1
+  lambda_param: 0.05
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.05_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.05_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+93ba1a3f1babbcb00bc179eb7df05378_2:
+  id: 2
+  lambda_param: 0.05
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.05_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.05_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+93ba1a3f1babbcb00bc179eb7df05378_3:
+  id: 3
+  lambda_param: 0.05
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.05_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.05_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+948c82ecd137f4ff9d08738983ef4190_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T499_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T499_1.xyz
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+950cc2f76704e9b57411707f8b45dbc9_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T499_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T499_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+95585ba73221c03c0fff143154d3614d_0:
+  id: 0
+  lambda_param: 0.02
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.02_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.02_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+95585ba73221c03c0fff143154d3614d_1:
+  id: 1
+  lambda_param: 0.02
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.02_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.02_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+95585ba73221c03c0fff143154d3614d_2:
+  id: 2
+  lambda_param: 0.02
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.02_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.02_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+95585ba73221c03c0fff143154d3614d_3:
+  id: 3
+  lambda_param: 0.02
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.02_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.02_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+96257320cdd21e84a2e2a8ce03ab658f_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T165_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T165_0.xyz
+  pressure: null
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+96d21ddb3cab03c96ba93a92b36cac1e_0:
+  id: 0
+  lambda_param: 0.9
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.9_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.9_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+96d21ddb3cab03c96ba93a92b36cac1e_1:
+  id: 1
+  lambda_param: 0.9
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.9_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.9_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+96d21ddb3cab03c96ba93a92b36cac1e_2:
+  id: 2
+  lambda_param: 0.9
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.9_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.9_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+96d21ddb3cab03c96ba93a92b36cac1e_3:
+  id: 3
+  lambda_param: 0.9
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.9_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.9_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+980ed36b7d929235b45a7b2c8334901c_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T217_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T217_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+9a6d4fad1bec2cd5964696caddf636f5_0:
+  name: opt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/opt/opt_T150_P0.1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: OPT
+9a7c562d65cac71860eb06b2b5a079bc_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T150_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T150_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+9ba557b73d64f075f488e68fbcdd8a9f_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T547_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T547_2.xyz
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+9bb1b1b8ad5ec8347d61ecf65dccd915_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T180_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T180_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+9ef70ae6b5ffe9420af8e7d9f8909e88_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T217_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T217_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+a1b4422458bd9bf3218193bdb1150626_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T455_0.pickle
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+a224e93ab22bc5df0c969dbf89cd5fd0_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T415_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T415_2.xyz
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+a33ea3acb1ba2275b80eed99e2352d98_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T547_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T547_0.xyz
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+a3fce4674486118d6924b4a4f195d841_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T314_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T314_3.xyz
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+a4704c6b57ae3da052536123b3557b4c_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T150_3.pickle
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+a54c82336b82653f37a39c7e99c4af6c_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T455_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T455_1.xyz
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+a560b15a7b0917e0fc3d2f399d6ea46e_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T238_0.pickle
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+a6f6029da165048101132490803a8662_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T165_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T165_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+a7657bfba64c5b06f579bc7606e0e7db_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T455_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T455_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+a8fbaa939a3bc8363164da45c2c1ff51_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T314_0.pickle
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+a9c0e214aef426efa273f3d85eac3e51_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T345_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T345_3.xyz
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+aa411741e52904d1ae9011b7609891bb_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T217_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T217_0.xyz
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+aa4b56174a944e75f7ae7b4c16eff203_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T547_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T547_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+aa5b082830abbe9be2eaf2c65189710f_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T455_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T455_3.xyz
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+b047f0242446af7ffa0607efd24a2305_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T499_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T499_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+b33d02cc8fbb9156932045b270ea8fd9_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T150_1.pickle
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+b384c5c84d05b925b801d99f88686dcc_0:
+  id: 0
+  lambda_param: 0.99
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.99_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.99_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b384c5c84d05b925b801d99f88686dcc_1:
+  id: 1
+  lambda_param: 0.99
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.99_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.99_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b384c5c84d05b925b801d99f88686dcc_2:
+  id: 2
+  lambda_param: 0.99
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.99_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.99_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b384c5c84d05b925b801d99f88686dcc_3:
+  id: 3
+  lambda_param: 0.99
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.99_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.99_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b414c36ffa501cadbe0d40a96797500f_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T198_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T198_1.xyz
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+b417f4873e11e1e3c442fbdeea6432bc_0:
+  id: 0
+  lambda_param: 1.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L1.0_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L1.0_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b417f4873e11e1e3c442fbdeea6432bc_1:
+  id: 1
+  lambda_param: 1.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L1.0_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L1.0_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b417f4873e11e1e3c442fbdeea6432bc_2:
+  id: 2
+  lambda_param: 1.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L1.0_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L1.0_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b417f4873e11e1e3c442fbdeea6432bc_3:
+  id: 3
+  lambda_param: 1.0
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L1.0_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L1.0_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+b8244686d3a3202bd2dda44cb932410f_0:
+  id: 0
+  lambda_param: 0.02
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.02_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.02_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+b8244686d3a3202bd2dda44cb932410f_1:
+  id: 1
+  lambda_param: 0.02
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.02_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.02_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+b8244686d3a3202bd2dda44cb932410f_2:
+  id: 2
+  lambda_param: 0.02
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.02_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.02_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+b8244686d3a3202bd2dda44cb932410f_3:
+  id: 3
+  lambda_param: 0.02
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L0.02_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L0.02_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+b8b7275de3acd5e75faa47327241f2a2_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T286_3.pickle
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+b97f153051269ad39c1f7e6343f73396_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T261_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T261_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+ba6006ec268450125b98aa3a6f1c1c7e_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T499_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T499_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+bac8ff7235396e469507a0dff6699ea1_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T499_0.pickle
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+bb6c4ded63a5bb0057d2c22442a09762_0:
+  id: 0
+  lambda_param: 0.1
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.1_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+bb6c4ded63a5bb0057d2c22442a09762_1:
+  id: 1
+  lambda_param: 0.1
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.1_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+bb6c4ded63a5bb0057d2c22442a09762_2:
+  id: 2
+  lambda_param: 0.1
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.1_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.1_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+bb6c4ded63a5bb0057d2c22442a09762_3:
+  id: 3
+  lambda_param: 0.1
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.1_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.1_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+bd04cf6684ca69b7ee739e7f2ec1faf4_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T180_0.pickle
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+be939cb97181da6dc7d33196f286a1a2_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T150_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T150_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+bf2077ae60d59b8d498651efd5a5944a_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T547_1.pickle
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+c48e4cb6198a02befc187f23741af29c_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T378_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T378_2.xyz
+  pressure: null
+  state: DONE
+  temp: 377.97631496846196
+  type: MD
+c493b6f70e3bb886bb211882125ae02e_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T345_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T345_0.xyz
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+c617b26ec0a8af8e43be3ac61fd29cfb_0:
+  id: 0
+  lambda_param: 0.8
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.8_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.8_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+c617b26ec0a8af8e43be3ac61fd29cfb_1:
+  id: 1
+  lambda_param: 0.8
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.8_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.8_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+c617b26ec0a8af8e43be3ac61fd29cfb_2:
+  id: 2
+  lambda_param: 0.8
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.8_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.8_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+c617b26ec0a8af8e43be3ac61fd29cfb_3:
+  id: 3
+  lambda_param: 0.8
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.8_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.8_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+c66b94f0dbfb7600d3450e21be0ccbe8_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T217_1.pickle
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+c782528b5b2cdd9df80e054d474bfed8_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T600_0.pickle
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+c98e00896c50d492ddd3df100839b219_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T600_2.pickle
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+ca77873ec1d6820db7cb5dd2e79e8ea5_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T455_1.pickle
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+cc653696c65d09ac883c780228cda7c6_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T180_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T180_3.xyz
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+ce827325f12446d50290a3353056e9aa_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T238_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T238_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+cfe9ec8bfc9f3bfe0bca538190ece068_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T261_0.pickle
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+d18f64541e3c7e58cd1d49bc694aef1a_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T345_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T345_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+d2827861b2d51230fd2930fb7b7de8ce_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T261_1.pickle
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+d2f1e952224b94deddfc828eff60d8ae_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T314_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T314_0.xyz
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+d39d3af296ba38c729880c2325ebc1db_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T345_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T345_1.xyz
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+d3f1e7820f12b4f8ef6341693a69c507_0:
+  multi: 0
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T547_0.pickle
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+d50a901b9915031598c1eab412906223_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T180_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T180_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+d9be28c2b49a5c3f6b79c644c5bac4c6_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T198_2.pickle
+  pressure: null
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+da1624688dcddd07c7b8434fed15588d_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T286_2.pickle
+  pressure: null
+  state: DONE
+  temp: 286.45248117312485
+  type: MD
+da4426fe21aea19154856f0c46638b28_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T314_3.pickle
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+dc00b9c78bb4c2c32d865ab4bfed3c34_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T165_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T165_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+dc313eeae8ecb347105a133bb946b7b2_0:
+  multi: 1
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T217_P0.1_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T217_P0.1_1.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+dea471f6c00a48954675266622e30a55_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T345_3.pickle
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+deed35bef11c3281dc06f37e08ccff18_0:
+  name: hess
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/hess/hess_T150_P0.1.pickle
+  pressure: 0.1
+  state: DONE
+  temp: 150.00000000000003
+  type: HESS
+df72e569d2a347d375b841bd70468d16_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T499_2.pickle
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+e0df33d11e12e4252608c9a34c409b43_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T238_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T238_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+e206ea0f697cdbd44fd71d44ecdce941_0:
+  id: 0
+  lambda_param: 1.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L1.0_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L1.0_0.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+e206ea0f697cdbd44fd71d44ecdce941_1:
+  id: 1
+  lambda_param: 1.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L1.0_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L1.0_1.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+e206ea0f697cdbd44fd71d44ecdce941_2:
+  id: 2
+  lambda_param: 1.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L1.0_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L1.0_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+e206ea0f697cdbd44fd71d44ecdce941_3:
+  id: 3
+  lambda_param: 1.0
+  name: ti_low
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/lambda_T150_L1.0_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_low/traj_T150_L1.0_3.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: LAMBDA
+e5c46aa3ddcb8e90d731c87d8a951200_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T314_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T314_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+e6d2e49c75d15f4a0115c012be2aa006_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T217_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T217_2.xyz
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+e845da57750546d2f89f181f7e45f27e_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T415_3.pickle
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+e92b27fe8795c66aa54c600f7e8f47ee_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T238_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T238_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+e94008be87a57f05422a843b4cfb71d9_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T261_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T261_3.xyz
+  pressure: null
+  state: DONE
+  temp: 261.1651689888373
+  type: MD
+ea87676d1a7ab6188d9963223b9c0d86_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T180_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T180_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+eab048e355b205fd4a93ca569aa4d95a_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T345_1.pickle
+  pressure: null
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+ec717f80a6c59c0ce0a492d8716dfd01_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T547_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T547_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+ee0e378eb8a9e44f596244a67bb49b61_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T238_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T238_3.xyz
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+ee4bda393d762b2e06df20ce9ec65754_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T600_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T600_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+f0387646f48e2004fd9c1d1ac4181f79_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T165_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T165_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 164.52374695419385
+  type: MD
+f0983585f6808dc348a76a2030cc05f9_0:
+  multi: 3
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T547_3.pickle
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+f0994098b302a37b4252db38a6eed2e5_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T547_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T547_3.xyz
+  pressure: null
+  state: DONE
+  temp: 547.0334931349296
+  type: MD
+f27d946be0c21f5083f17053e363deb7_0:
+  multi: 2
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T150_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T150_2.xyz
+  pressure: null
+  state: DONE
+  temp: 150.00000000000003
+  type: MD
+f32776dbc76486b54a902a0a222ed7ef_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T180_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T180_1.xyz
+  pressure: null
+  state: DONE
+  temp: 180.45375541231755
+  type: MD
+f4451445aa6562f8bbaac2ace3bed95a_0:
+  multi: 0
+  name: sampling
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/props_T198_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/sampling/traj_T198_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 197.92618661593409
+  type: MD
+f47e61a6aa5162f7851f369c0d862d58_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T345_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T345_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 344.60950649911035
+  type: MD
+f5046aab9c74ccd408823a2db6014dba_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T600_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T600_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+f6399f6b120a6f2ffb9bdcc6e98c6dfe_0:
+  id: 0
+  lambda_param: 0.9
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.9_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.9_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+f6399f6b120a6f2ffb9bdcc6e98c6dfe_1:
+  id: 1
+  lambda_param: 0.9
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.9_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.9_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+f6399f6b120a6f2ffb9bdcc6e98c6dfe_2:
+  id: 2
+  lambda_param: 0.9
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.9_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.9_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+f6399f6b120a6f2ffb9bdcc6e98c6dfe_3:
+  id: 3
+  lambda_param: 0.9
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.9_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.9_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+f68c2799f5fbe43372dd73997b6d32f2_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T238_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T238_1.xyz
+  pressure: null
+  state: DONE
+  temp: 238.11015779522984
+  type: MD
+f7c6de54e0532682dae1741a4e2c9c49_0:
+  multi: 0
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T455_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T455_0.xyz
+  pressure: null
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
+f9936ef896f44eba7828ae8d1671257c_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T499_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T499_3.xyz
+  pressure: null
+  state: DONE
+  temp: 498.7427376856724
+  type: MD
+f9d5060670806ddfa7166b6fbdfd1a49_0:
+  multi: 1
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T217_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T217_1.xyz
+  pressure: null
+  state: DONE
+  temp: 217.09038561605675
+  type: MD
+fa0860fb6f7600ac06102e6f98929df1_0:
+  multi: 3
+  name: nvt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/props_T600_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/nvt/traj_T600_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: MD
+fa2aae34950cd6e0f2ecc2326c24c113_0:
+  multi: 2
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T415_2.pickle
+  pressure: null
+  state: DONE
+  temp: 414.57386399033265
+  type: MD
+fa41c4812f684e84baec710d52f9ba5b_0:
+  id: 0
+  lambda_param: 0.95
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.95_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.95_0.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+fa41c4812f684e84baec710d52f9ba5b_1:
+  id: 1
+  lambda_param: 0.95
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.95_1.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.95_1.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+fa41c4812f684e84baec710d52f9ba5b_2:
+  id: 2
+  lambda_param: 0.95
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.95_2.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.95_2.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+fa41c4812f684e84baec710d52f9ba5b_3:
+  id: 3
+  lambda_param: 0.95
+  name: ti_high
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/lambda_T600_L0.95_3.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/ti_high/traj_T600_L0.95_3.xyz
+  pressure: null
+  state: DONE
+  temp: 599.9999999999997
+  type: LAMBDA
+fc05b3817a89953b61e566ff74a6559f_0:
+  multi: 1
+  name: intermediate
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/intermediate/props_T314_1.pickle
+  pressure: null
+  state: DONE
+  temp: 314.18823684618803
+  type: MD
+ff36806f137fb59b8e547e1ba341be12_0:
+  multi: 0
+  name: npt
+  outputs:
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/props_T455_P0.1_0.pickle
+  - /pfs/lustrep2/scratch/project_465001125/tbraecke/CsPbI3_intermediates/OwnMLP/NucleationStruc/FAdeltastruc/nptruns/phase-int_4a_double/npt/traj_T455_P0.1_0.xyz
+  pressure: 0.1
+  state: DONE
+  temp: 454.71496995311946
+  type: MD
